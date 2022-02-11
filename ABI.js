@@ -1,5 +1,4 @@
 var ABI = [
-[
 	{
 		"inputs":[
 			{
@@ -821,8 +820,5 @@ var ABI = [
 		"stateMutability":"nonpayable",
 		"type":"function"
 	}
-]
-
-
 
 ]
